@@ -52,8 +52,9 @@ K-Means Clustering:
     - Useful for identifying characteristics of current audiences 
 
 Random Forest Classification:
-    - Strongest predictive performance for promo-use behavior
-    - Useful for targeted promotional strategies
+    - Strongest overall predictive performance among the supervised models
+    - High recall for identifying promo-responsive customers
+    - Supports targeted and cost-efficient promotional strategies
 
 KNN Classification:
     - High recall for identifying promo-responsive customers
