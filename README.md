@@ -48,12 +48,12 @@ Option 2: Local Execution
 
 RESULTS SUMMARY
 K-Means Clustering:
-    - Identified distinct customer personas for targeted marketing.
-    - (Updated evaluation metrics to be added by teammate.)
+    - Identified 4 distinct customer personas for targeted marketing
+    - Useful for identifying characteristics of current audiences 
 
 Random Forest Classification:
-    - Strongest predictive performance for promo-use behavior.
-    - Useful for targeted promotional strategies.
+    - Strongest predictive performance for promo-use behavior
+    - Useful for targeted promotional strategies
 
 KNN Classification:
     - High recall for identifying promo-responsive customers
