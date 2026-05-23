@@ -69,4 +69,9 @@ CONTRIBUTORS
     - Kyle Cadigal
     - Emmitt Sherer
 
+CODING REFERENCES
+- https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.select_dtypes.html
+- https://www.w3schools.com/python/python_ml_knn.asp
+- https://www.geeksforgeeks.org/machine-learning/hyperparameter-tuning/
+- https://www.kaggle.com/code/melihkanbay/knn-best-parameters-gridsearchcv
 
